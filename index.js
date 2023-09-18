@@ -20,8 +20,8 @@
     d1.setAttribute("src", diceArray[randomNumber1].toString());
 
     //--- player 2
-    var d1 = document.querySelector(".img2");
-    d1.setAttribute("src", diceArray[randomNumber2].toString());
+    var d2 = document.querySelector(".img2");
+    d2.setAttribute("src", diceArray[randomNumber2].toString());
 
 // ----------------- updating winner status ----------------
 
